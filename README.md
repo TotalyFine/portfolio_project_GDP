@@ -1,6 +1,6 @@
 # Portfolio project: GDP
 
-In this project, will analyze data on GDP and life expectancy from the World Health Organization and the World Bank to will try and identify the relationship between the GDP and life expectancy of six countries.
+In this project, I will analyze data on GDP and life expectancy from the World Health Organization and the World Bank. I will try and identify the relationship between the GDP and life expectancy of six countries.
 
 During this project, i will analyze, prepare, and plot data in order to answer questions in a meaningful way.
 
